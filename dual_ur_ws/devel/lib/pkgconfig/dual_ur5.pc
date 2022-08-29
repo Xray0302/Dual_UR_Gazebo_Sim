@@ -1,0 +1,8 @@
+prefix=/home/xurui/dual_ur_ws/devel
+
+Name: dual_ur5
+Description: Description of dual_ur5
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

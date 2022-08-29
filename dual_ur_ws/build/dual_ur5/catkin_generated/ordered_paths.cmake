@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/xurui/dual_ur_ws/devel/lib;/opt/ros/melodic/lib")
